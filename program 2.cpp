@@ -1,3 +1,5 @@
+// Write a program to create an array1 of 10 elements. Array1 has all the value input by the user.//
+// Now create an array2 having all the value twice of the array1
 #include<iostream>
 using namespace std;
 int main(){
